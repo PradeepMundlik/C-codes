@@ -1,0 +1,30 @@
+
+
+What is Git ? - Free and open source verion control system. It was created by Linus Torvalds in 2005, and has been maintained by Junio Hamano since then.
+
+What is Version Control ? - The management of changes to documents, computer programs, large web sites, and other collections of information. 
+
+Git helps you keep track of code changes and also to track who made changes.
+Git is used to collaborate on code
+
+Terms -- Directory -> Folder.
+	Terminal or Command line -> Interface for Text Commands.
+	CLI -> Command Line Interface. 
+	cd -> Change Directory.
+	Repository (repo) -> Project, or the folder/place where your project is kept. 
+	Github -> A website to host your repositories online (Remote Repository Platform).
+	(Bitbucket and GitLab are some other remote repo platforms like Github.)
+	Git is tool that track changes in your code over time. 
+
+Why Github ? - GitHub makes tools that use Git. GitHub is the largest host of source code in the world, and has been owned by Microsoft since 2018.
+
+Git Commands ->
+ 	Clone -> Bring a repository that is hosted somewhere like Github into a folder on your local machine.
+	add ->  Track your files and changes in Git.
+	commit -> Save your files in Git.
+	push -> Upload Git commits to remote repo like Github.
+	pull -> Download changes from remote repo to your local machine, the opposite of push. 
+
+In general, lines with $ in front of it is input. These are the commands you can copy and run in your terminal.
+
+
